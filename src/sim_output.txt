@@ -1,0 +1,31 @@
+------------------------
+DISK SCHEDULER SIMULATOR
+------------------------
+Enter filename: For file (input1): 
+FCFS: 640
+SSTF: 236
+SCAN: 236
+C-SCAN: 386
+LOOK: 208
+C-LOOK: 326
+------------------------------- 
+    DISK SCHEDULER SIMULATOR    
+Type 'QUIT' to EXIT Application 
+------------------------------- 
+Enter filename: For file (input): 
+FCFS: 2595
+SSTF: 1254
+SCAN: 1254
+C-SCAN: 1646
+LOOK: 1254
+C-LOOK: 1638
+------------------------------- 
+    DISK SCHEDULER SIMULATOR    
+Type 'QUIT' to EXIT Application 
+------------------------------- 
+Enter filename: Thread 139849202763520 is terminated.
+Thread 139849227941632 is terminated.
+Thread 139849194370816 is terminated.
+Thread 139849211156224 is terminated.
+Thread 139849219548928 is terminated.
+Thread 139849236334336 is terminated.
