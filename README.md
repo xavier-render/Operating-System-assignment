@@ -1,3 +1,4 @@
+![](program.gif)
 OS Assignment S1 2022
 
 Project
