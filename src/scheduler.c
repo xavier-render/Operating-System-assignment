@@ -1,6 +1,6 @@
 /**
  * @file scheduler.c
- * @author Oceania.eth
+ * @author Xavier Render
  * @date 2022-05-07
  * 
  * @brief this file contains six functions that implement the six disk scheduling algorithms 
