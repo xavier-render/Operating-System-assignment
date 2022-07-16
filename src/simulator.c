@@ -1,6 +1,6 @@
 /**
  * @file simulator.c
- * @author Oceania.eth
+ * @author Xavier Render
  * @date 2022-05-07
  * 
  * @brief main simulator program simulating how a disk scheduling algorithms works with POSIX Threads and Semaphores
