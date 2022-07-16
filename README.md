@@ -1,7 +1,3 @@
-![program](https://user-images.githubusercontent.com/68931378/179358629-fb7df3fc-0c3d-4112-98bb-d6d809f4fcf8.gif)
-
-
-
 OS Assignment S1 2022
 
 Project
