@@ -4,11 +4,11 @@ Project
 
 - A Disk Scheduling Simulator
 
-Compile
+To compile
 
 - type "make" in the terminal
 
-Remove objects created
+To remove objects created
 
 - type "make clean" in the terminal
 
