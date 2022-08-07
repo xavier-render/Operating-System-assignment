@@ -20,4 +20,4 @@ Run the program
 Run the program using redirection
 This command use redirection taking input from (sim_in.txt) and redirect output of the program to (sim_out.txt)
 
-- type "./program <sim_input.txt> sim_out.txt"
+- type "./program <sim_input.txt> sim_out.txt
